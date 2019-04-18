@@ -1,6 +1,6 @@
 Imports System
 
-Module variables
+Module Program
     Sub Main(args As String())
 
         Dim Nombre As String
@@ -14,6 +14,8 @@ Module variables
         Apellido = Console.ReadLine()
 
         Console.Write("Ingrese Fecha de nacimiento:   ")
+        Fnacimiento = Console.ReadLine()
+
         Console.WriteLine("Apellido: " & Apellido & "  " & "Nombre: " & Nombre & "  " & "Nacio el: " & Fnacimiento)
 
     End Sub
