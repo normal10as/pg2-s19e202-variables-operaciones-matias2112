@@ -1,6 +1,6 @@
 Imports System
 
-Module Program
+Module variables
     Sub Main(args As String())
 
         Dim Nombre As String
