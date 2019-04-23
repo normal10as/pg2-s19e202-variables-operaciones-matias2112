@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\normal10as\pg2-s19e202-variables-operaciones-matias2112\variables_tipos\variables_tipos\bin\Debug\netcoreapp2.1\variables_tipos.deps.json
+C:\Users\user\source\repos\normal10as\pg2-s19e202-variables-operaciones-matias2112\variables_tipos\variables_tipos\bin\Debug\netcoreapp2.1\variables_tipos.runtimeconfig.json
+C:\Users\user\source\repos\normal10as\pg2-s19e202-variables-operaciones-matias2112\variables_tipos\variables_tipos\bin\Debug\netcoreapp2.1\variables_tipos.runtimeconfig.dev.json
+C:\Users\user\source\repos\normal10as\pg2-s19e202-variables-operaciones-matias2112\variables_tipos\variables_tipos\bin\Debug\netcoreapp2.1\variables_tipos.dll
+C:\Users\user\source\repos\normal10as\pg2-s19e202-variables-operaciones-matias2112\variables_tipos\variables_tipos\bin\Debug\netcoreapp2.1\variables_tipos.pdb
+C:\Users\user\source\repos\normal10as\pg2-s19e202-variables-operaciones-matias2112\variables_tipos\variables_tipos\obj\Debug\netcoreapp2.1\variables_tipos.vbprojAssemblyReference.cache
+C:\Users\user\source\repos\normal10as\pg2-s19e202-variables-operaciones-matias2112\variables_tipos\variables_tipos\obj\Debug\netcoreapp2.1\variables_tipos.vbproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\normal10as\pg2-s19e202-variables-operaciones-matias2112\variables_tipos\variables_tipos\obj\Debug\netcoreapp2.1\variables_tipos.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\normal10as\pg2-s19e202-variables-operaciones-matias2112\variables_tipos\variables_tipos\obj\Debug\netcoreapp2.1\variables_tipos.AssemblyInfo.vb
+C:\Users\user\source\repos\normal10as\pg2-s19e202-variables-operaciones-matias2112\variables_tipos\variables_tipos\obj\Debug\netcoreapp2.1\variables_tipos.dll
+C:\Users\user\source\repos\normal10as\pg2-s19e202-variables-operaciones-matias2112\variables_tipos\variables_tipos\obj\Debug\netcoreapp2.1\variables_tipos.pdb
