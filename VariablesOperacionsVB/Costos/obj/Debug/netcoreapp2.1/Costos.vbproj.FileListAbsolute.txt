@@ -1,0 +1,11 @@
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-matias2112\VariablesOperacionsVB\Costos\bin\Debug\netcoreapp2.1\Costos.deps.json
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-matias2112\VariablesOperacionsVB\Costos\bin\Debug\netcoreapp2.1\Costos.runtimeconfig.json
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-matias2112\VariablesOperacionsVB\Costos\bin\Debug\netcoreapp2.1\Costos.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-matias2112\VariablesOperacionsVB\Costos\bin\Debug\netcoreapp2.1\Costos.dll
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-matias2112\VariablesOperacionsVB\Costos\bin\Debug\netcoreapp2.1\Costos.pdb
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-matias2112\VariablesOperacionsVB\Costos\obj\Debug\netcoreapp2.1\Costos.vbprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-matias2112\VariablesOperacionsVB\Costos\obj\Debug\netcoreapp2.1\Costos.vbproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-matias2112\VariablesOperacionsVB\Costos\obj\Debug\netcoreapp2.1\Costos.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-matias2112\VariablesOperacionsVB\Costos\obj\Debug\netcoreapp2.1\Costos.AssemblyInfo.vb
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-matias2112\VariablesOperacionsVB\Costos\obj\Debug\netcoreapp2.1\Costos.dll
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-matias2112\VariablesOperacionsVB\Costos\obj\Debug\netcoreapp2.1\Costos.pdb
