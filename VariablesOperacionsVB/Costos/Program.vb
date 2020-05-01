@@ -6,7 +6,7 @@ Module Costos
         Dim UnidadesProducidas As Byte
         Dim Costo As Single
 
-        Console.Write("Ingrese la descripcion: ")
+        Console.Write("Ingrese la descripción: ")
         DescArticulo = Console.ReadLine
         Console.Write("Ingrese las Unidades producidas: ")
         UnidadesProducidas = Console.ReadLine
