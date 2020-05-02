@@ -1,0 +1,10 @@
+C:\Users\Usuario\Source\Repos\normal10as\pg2-s19e202-variables-operaciones-matias2112\VariablesOperacionsVB\AreaCirculo\bin\Debug\netcoreapp2.1\AreaCirculo.deps.json
+C:\Users\Usuario\Source\Repos\normal10as\pg2-s19e202-variables-operaciones-matias2112\VariablesOperacionsVB\AreaCirculo\bin\Debug\netcoreapp2.1\AreaCirculo.runtimeconfig.json
+C:\Users\Usuario\Source\Repos\normal10as\pg2-s19e202-variables-operaciones-matias2112\VariablesOperacionsVB\AreaCirculo\bin\Debug\netcoreapp2.1\AreaCirculo.runtimeconfig.dev.json
+C:\Users\Usuario\Source\Repos\normal10as\pg2-s19e202-variables-operaciones-matias2112\VariablesOperacionsVB\AreaCirculo\bin\Debug\netcoreapp2.1\AreaCirculo.dll
+C:\Users\Usuario\Source\Repos\normal10as\pg2-s19e202-variables-operaciones-matias2112\VariablesOperacionsVB\AreaCirculo\bin\Debug\netcoreapp2.1\AreaCirculo.pdb
+C:\Users\Usuario\Source\Repos\normal10as\pg2-s19e202-variables-operaciones-matias2112\VariablesOperacionsVB\AreaCirculo\obj\Debug\netcoreapp2.1\AreaCirculo.vbproj.CoreCompileInputs.cache
+C:\Users\Usuario\Source\Repos\normal10as\pg2-s19e202-variables-operaciones-matias2112\VariablesOperacionsVB\AreaCirculo\obj\Debug\netcoreapp2.1\AreaCirculo.AssemblyInfoInputs.cache
+C:\Users\Usuario\Source\Repos\normal10as\pg2-s19e202-variables-operaciones-matias2112\VariablesOperacionsVB\AreaCirculo\obj\Debug\netcoreapp2.1\AreaCirculo.AssemblyInfo.vb
+C:\Users\Usuario\Source\Repos\normal10as\pg2-s19e202-variables-operaciones-matias2112\VariablesOperacionsVB\AreaCirculo\obj\Debug\netcoreapp2.1\AreaCirculo.dll
+C:\Users\Usuario\Source\Repos\normal10as\pg2-s19e202-variables-operaciones-matias2112\VariablesOperacionsVB\AreaCirculo\obj\Debug\netcoreapp2.1\AreaCirculo.pdb
