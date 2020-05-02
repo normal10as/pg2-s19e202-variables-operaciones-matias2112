@@ -1,0 +1,11 @@
+C:\Users\Usuario\Source\Repos\normal10as\pg2-s19e202-variables-operaciones-matias2112\VariablesOperacionsVB\Cuadratica\bin\Debug\netcoreapp2.1\Cuadratica.deps.json
+C:\Users\Usuario\Source\Repos\normal10as\pg2-s19e202-variables-operaciones-matias2112\VariablesOperacionsVB\Cuadratica\bin\Debug\netcoreapp2.1\Cuadratica.runtimeconfig.json
+C:\Users\Usuario\Source\Repos\normal10as\pg2-s19e202-variables-operaciones-matias2112\VariablesOperacionsVB\Cuadratica\bin\Debug\netcoreapp2.1\Cuadratica.runtimeconfig.dev.json
+C:\Users\Usuario\Source\Repos\normal10as\pg2-s19e202-variables-operaciones-matias2112\VariablesOperacionsVB\Cuadratica\bin\Debug\netcoreapp2.1\Cuadratica.dll
+C:\Users\Usuario\Source\Repos\normal10as\pg2-s19e202-variables-operaciones-matias2112\VariablesOperacionsVB\Cuadratica\bin\Debug\netcoreapp2.1\Cuadratica.pdb
+C:\Users\Usuario\Source\Repos\normal10as\pg2-s19e202-variables-operaciones-matias2112\VariablesOperacionsVB\Cuadratica\obj\Debug\netcoreapp2.1\Cuadratica.vbproj.CoreCompileInputs.cache
+C:\Users\Usuario\Source\Repos\normal10as\pg2-s19e202-variables-operaciones-matias2112\VariablesOperacionsVB\Cuadratica\obj\Debug\netcoreapp2.1\Cuadratica.AssemblyInfoInputs.cache
+C:\Users\Usuario\Source\Repos\normal10as\pg2-s19e202-variables-operaciones-matias2112\VariablesOperacionsVB\Cuadratica\obj\Debug\netcoreapp2.1\Cuadratica.AssemblyInfo.vb
+C:\Users\Usuario\Source\Repos\normal10as\pg2-s19e202-variables-operaciones-matias2112\VariablesOperacionsVB\Cuadratica\obj\Debug\netcoreapp2.1\Cuadratica.dll
+C:\Users\Usuario\Source\Repos\normal10as\pg2-s19e202-variables-operaciones-matias2112\VariablesOperacionsVB\Cuadratica\obj\Debug\netcoreapp2.1\Cuadratica.pdb
+C:\Users\Usuario\Source\Repos\normal10as\pg2-s19e202-variables-operaciones-matias2112\VariablesOperacionsVB\Cuadratica\obj\Debug\netcoreapp2.1\Cuadratica.vbprojAssemblyReference.cache
