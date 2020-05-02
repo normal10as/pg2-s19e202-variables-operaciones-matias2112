@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario\\Source\\Repos\\normal10as\\pg2-s19e202-variables-operaciones-matias2112\\VariablesOperacionsVB\\CotizaciónTerreno\\CotizaciónTerreno.vbproj": {}
+    "C:\\Users\\Usuario\\Source\\Repos\\normal10as\\pg2-s19e202-variables-operaciones-matias2112\\VariablesOperacionsVB\\VelocidadDeLaLuz\\VelocidadDeLaLuz.vbproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario\\Source\\Repos\\normal10as\\pg2-s19e202-variables-operaciones-matias2112\\VariablesOperacionsVB\\CotizaciónTerreno\\CotizaciónTerreno.vbproj": {
+    "C:\\Users\\Usuario\\Source\\Repos\\normal10as\\pg2-s19e202-variables-operaciones-matias2112\\VariablesOperacionsVB\\VelocidadDeLaLuz\\VelocidadDeLaLuz.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\Source\\Repos\\normal10as\\pg2-s19e202-variables-operaciones-matias2112\\VariablesOperacionsVB\\CotizaciónTerreno\\CotizaciónTerreno.vbproj",
-        "projectName": "CotizaciónTerreno",
-        "projectPath": "C:\\Users\\Usuario\\Source\\Repos\\normal10as\\pg2-s19e202-variables-operaciones-matias2112\\VariablesOperacionsVB\\CotizaciónTerreno\\CotizaciónTerreno.vbproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\Source\\Repos\\normal10as\\pg2-s19e202-variables-operaciones-matias2112\\VariablesOperacionsVB\\VelocidadDeLaLuz\\VelocidadDeLaLuz.vbproj",
+        "projectName": "VelocidadDeLaLuz",
+        "projectPath": "C:\\Users\\Usuario\\Source\\Repos\\normal10as\\pg2-s19e202-variables-operaciones-matias2112\\VariablesOperacionsVB\\VelocidadDeLaLuz\\VelocidadDeLaLuz.vbproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\Source\\Repos\\normal10as\\pg2-s19e202-variables-operaciones-matias2112\\VariablesOperacionsVB\\CotizaciónTerreno\\obj\\",
+        "outputPath": "C:\\Users\\Usuario\\Source\\Repos\\normal10as\\pg2-s19e202-variables-operaciones-matias2112\\VariablesOperacionsVB\\VelocidadDeLaLuz\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
