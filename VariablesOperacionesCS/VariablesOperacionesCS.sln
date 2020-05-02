@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Facturación", "Facturació
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ÁreaCirculo", "ÁreaCirculo\ÁreaCirculo.csproj", "{3B74D800-BB14-4B55-94DF-7A2034F9D33A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CotizaciónDólar", "CotizaciónDólar\CotizaciónDólar.csproj", "{B58E5D3B-39B5-49F1-A742-55B0C681CDDA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{3B74D800-BB14-4B55-94DF-7A2034F9D33A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3B74D800-BB14-4B55-94DF-7A2034F9D33A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3B74D800-BB14-4B55-94DF-7A2034F9D33A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B58E5D3B-39B5-49F1-A742-55B0C681CDDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B58E5D3B-39B5-49F1-A742-55B0C681CDDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B58E5D3B-39B5-49F1-A742-55B0C681CDDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B58E5D3B-39B5-49F1-A742-55B0C681CDDA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
