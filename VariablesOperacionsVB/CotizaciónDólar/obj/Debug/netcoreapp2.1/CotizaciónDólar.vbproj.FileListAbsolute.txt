@@ -1,0 +1,10 @@
+C:\Users\Usuario\Source\Repos\normal10as\pg2-s19e202-variables-operaciones-matias2112\VariablesOperacionsVB\CotizaciónDólar\bin\Debug\netcoreapp2.1\CotizaciónDólar.deps.json
+C:\Users\Usuario\Source\Repos\normal10as\pg2-s19e202-variables-operaciones-matias2112\VariablesOperacionsVB\CotizaciónDólar\bin\Debug\netcoreapp2.1\CotizaciónDólar.runtimeconfig.json
+C:\Users\Usuario\Source\Repos\normal10as\pg2-s19e202-variables-operaciones-matias2112\VariablesOperacionsVB\CotizaciónDólar\bin\Debug\netcoreapp2.1\CotizaciónDólar.runtimeconfig.dev.json
+C:\Users\Usuario\Source\Repos\normal10as\pg2-s19e202-variables-operaciones-matias2112\VariablesOperacionsVB\CotizaciónDólar\bin\Debug\netcoreapp2.1\CotizaciónDólar.dll
+C:\Users\Usuario\Source\Repos\normal10as\pg2-s19e202-variables-operaciones-matias2112\VariablesOperacionsVB\CotizaciónDólar\bin\Debug\netcoreapp2.1\CotizaciónDólar.pdb
+C:\Users\Usuario\Source\Repos\normal10as\pg2-s19e202-variables-operaciones-matias2112\VariablesOperacionsVB\CotizaciónDólar\obj\Debug\netcoreapp2.1\CotizaciónDólar.vbproj.CoreCompileInputs.cache
+C:\Users\Usuario\Source\Repos\normal10as\pg2-s19e202-variables-operaciones-matias2112\VariablesOperacionsVB\CotizaciónDólar\obj\Debug\netcoreapp2.1\CotizaciónDólar.AssemblyInfoInputs.cache
+C:\Users\Usuario\Source\Repos\normal10as\pg2-s19e202-variables-operaciones-matias2112\VariablesOperacionsVB\CotizaciónDólar\obj\Debug\netcoreapp2.1\CotizaciónDólar.AssemblyInfo.vb
+C:\Users\Usuario\Source\Repos\normal10as\pg2-s19e202-variables-operaciones-matias2112\VariablesOperacionsVB\CotizaciónDólar\obj\Debug\netcoreapp2.1\CotizaciónDólar.dll
+C:\Users\Usuario\Source\Repos\normal10as\pg2-s19e202-variables-operaciones-matias2112\VariablesOperacionsVB\CotizaciónDólar\obj\Debug\netcoreapp2.1\CotizaciónDólar.pdb
