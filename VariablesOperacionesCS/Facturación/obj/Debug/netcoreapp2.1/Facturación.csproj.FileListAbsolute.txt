@@ -1,0 +1,10 @@
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-matias2112\VariablesOperacionesCS\Facturación\bin\Debug\netcoreapp2.1\Facturación.deps.json
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-matias2112\VariablesOperacionesCS\Facturación\bin\Debug\netcoreapp2.1\Facturación.runtimeconfig.json
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-matias2112\VariablesOperacionesCS\Facturación\bin\Debug\netcoreapp2.1\Facturación.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-matias2112\VariablesOperacionesCS\Facturación\bin\Debug\netcoreapp2.1\Facturación.dll
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-matias2112\VariablesOperacionesCS\Facturación\bin\Debug\netcoreapp2.1\Facturación.pdb
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-matias2112\VariablesOperacionesCS\Facturación\obj\Debug\netcoreapp2.1\Facturación.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-matias2112\VariablesOperacionesCS\Facturación\obj\Debug\netcoreapp2.1\Facturación.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-matias2112\VariablesOperacionesCS\Facturación\obj\Debug\netcoreapp2.1\Facturación.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-matias2112\VariablesOperacionesCS\Facturación\obj\Debug\netcoreapp2.1\Facturación.dll
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-matias2112\VariablesOperacionesCS\Facturación\obj\Debug\netcoreapp2.1\Facturación.pdb
