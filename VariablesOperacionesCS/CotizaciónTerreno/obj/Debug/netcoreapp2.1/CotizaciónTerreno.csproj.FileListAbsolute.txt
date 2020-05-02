@@ -1,0 +1,11 @@
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-matias2112\VariablesOperacionesCS\CotizaciónTerreno\bin\Debug\netcoreapp2.1\CotizaciónTerreno.deps.json
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-matias2112\VariablesOperacionesCS\CotizaciónTerreno\bin\Debug\netcoreapp2.1\CotizaciónTerreno.runtimeconfig.json
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-matias2112\VariablesOperacionesCS\CotizaciónTerreno\bin\Debug\netcoreapp2.1\CotizaciónTerreno.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-matias2112\VariablesOperacionesCS\CotizaciónTerreno\bin\Debug\netcoreapp2.1\CotizaciónTerreno.dll
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-matias2112\VariablesOperacionesCS\CotizaciónTerreno\bin\Debug\netcoreapp2.1\CotizaciónTerreno.pdb
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-matias2112\VariablesOperacionesCS\CotizaciónTerreno\obj\Debug\netcoreapp2.1\CotizaciónTerreno.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-matias2112\VariablesOperacionesCS\CotizaciónTerreno\obj\Debug\netcoreapp2.1\CotizaciónTerreno.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-matias2112\VariablesOperacionesCS\CotizaciónTerreno\obj\Debug\netcoreapp2.1\CotizaciónTerreno.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-matias2112\VariablesOperacionesCS\CotizaciónTerreno\obj\Debug\netcoreapp2.1\CotizaciónTerreno.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-matias2112\VariablesOperacionesCS\CotizaciónTerreno\obj\Debug\netcoreapp2.1\CotizaciónTerreno.dll
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-matias2112\VariablesOperacionesCS\CotizaciónTerreno\obj\Debug\netcoreapp2.1\CotizaciónTerreno.pdb
