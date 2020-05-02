@@ -1,0 +1,10 @@
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-matias2112\VariablesOperacionesCS\VelocidadDeLaLuz\bin\Debug\netcoreapp2.1\VelocidadDeLaLuz.deps.json
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-matias2112\VariablesOperacionesCS\VelocidadDeLaLuz\bin\Debug\netcoreapp2.1\VelocidadDeLaLuz.runtimeconfig.json
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-matias2112\VariablesOperacionesCS\VelocidadDeLaLuz\bin\Debug\netcoreapp2.1\VelocidadDeLaLuz.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-matias2112\VariablesOperacionesCS\VelocidadDeLaLuz\bin\Debug\netcoreapp2.1\VelocidadDeLaLuz.dll
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-matias2112\VariablesOperacionesCS\VelocidadDeLaLuz\bin\Debug\netcoreapp2.1\VelocidadDeLaLuz.pdb
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-matias2112\VariablesOperacionesCS\VelocidadDeLaLuz\obj\Debug\netcoreapp2.1\VelocidadDeLaLuz.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-matias2112\VariablesOperacionesCS\VelocidadDeLaLuz\obj\Debug\netcoreapp2.1\VelocidadDeLaLuz.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-matias2112\VariablesOperacionesCS\VelocidadDeLaLuz\obj\Debug\netcoreapp2.1\VelocidadDeLaLuz.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-matias2112\VariablesOperacionesCS\VelocidadDeLaLuz\obj\Debug\netcoreapp2.1\VelocidadDeLaLuz.dll
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-matias2112\VariablesOperacionesCS\VelocidadDeLaLuz\obj\Debug\netcoreapp2.1\VelocidadDeLaLuz.pdb
