@@ -1,0 +1,10 @@
+C:\Users\Usuario\Source\Repos\normal10as\pg2-s19e202-variables-operaciones-matias2112\VariablesOperacionsVB\EquivalenciasPies\bin\Debug\netcoreapp2.1\EquivalenciasPies.deps.json
+C:\Users\Usuario\Source\Repos\normal10as\pg2-s19e202-variables-operaciones-matias2112\VariablesOperacionsVB\EquivalenciasPies\bin\Debug\netcoreapp2.1\EquivalenciasPies.runtimeconfig.json
+C:\Users\Usuario\Source\Repos\normal10as\pg2-s19e202-variables-operaciones-matias2112\VariablesOperacionsVB\EquivalenciasPies\bin\Debug\netcoreapp2.1\EquivalenciasPies.runtimeconfig.dev.json
+C:\Users\Usuario\Source\Repos\normal10as\pg2-s19e202-variables-operaciones-matias2112\VariablesOperacionsVB\EquivalenciasPies\bin\Debug\netcoreapp2.1\EquivalenciasPies.dll
+C:\Users\Usuario\Source\Repos\normal10as\pg2-s19e202-variables-operaciones-matias2112\VariablesOperacionsVB\EquivalenciasPies\bin\Debug\netcoreapp2.1\EquivalenciasPies.pdb
+C:\Users\Usuario\Source\Repos\normal10as\pg2-s19e202-variables-operaciones-matias2112\VariablesOperacionsVB\EquivalenciasPies\obj\Debug\netcoreapp2.1\EquivalenciasPies.vbproj.CoreCompileInputs.cache
+C:\Users\Usuario\Source\Repos\normal10as\pg2-s19e202-variables-operaciones-matias2112\VariablesOperacionsVB\EquivalenciasPies\obj\Debug\netcoreapp2.1\EquivalenciasPies.AssemblyInfoInputs.cache
+C:\Users\Usuario\Source\Repos\normal10as\pg2-s19e202-variables-operaciones-matias2112\VariablesOperacionsVB\EquivalenciasPies\obj\Debug\netcoreapp2.1\EquivalenciasPies.AssemblyInfo.vb
+C:\Users\Usuario\Source\Repos\normal10as\pg2-s19e202-variables-operaciones-matias2112\VariablesOperacionsVB\EquivalenciasPies\obj\Debug\netcoreapp2.1\EquivalenciasPies.dll
+C:\Users\Usuario\Source\Repos\normal10as\pg2-s19e202-variables-operaciones-matias2112\VariablesOperacionsVB\EquivalenciasPies\obj\Debug\netcoreapp2.1\EquivalenciasPies.pdb
