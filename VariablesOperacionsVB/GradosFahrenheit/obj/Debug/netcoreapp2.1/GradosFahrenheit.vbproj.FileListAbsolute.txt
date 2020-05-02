@@ -1,0 +1,10 @@
+C:\Users\Usuario\Source\Repos\normal10as\pg2-s19e202-variables-operaciones-matias2112\VariablesOperacionsVB\GradosFahrenheit\bin\Debug\netcoreapp2.1\GradosFahrenheit.deps.json
+C:\Users\Usuario\Source\Repos\normal10as\pg2-s19e202-variables-operaciones-matias2112\VariablesOperacionsVB\GradosFahrenheit\bin\Debug\netcoreapp2.1\GradosFahrenheit.runtimeconfig.json
+C:\Users\Usuario\Source\Repos\normal10as\pg2-s19e202-variables-operaciones-matias2112\VariablesOperacionsVB\GradosFahrenheit\bin\Debug\netcoreapp2.1\GradosFahrenheit.runtimeconfig.dev.json
+C:\Users\Usuario\Source\Repos\normal10as\pg2-s19e202-variables-operaciones-matias2112\VariablesOperacionsVB\GradosFahrenheit\bin\Debug\netcoreapp2.1\GradosFahrenheit.dll
+C:\Users\Usuario\Source\Repos\normal10as\pg2-s19e202-variables-operaciones-matias2112\VariablesOperacionsVB\GradosFahrenheit\bin\Debug\netcoreapp2.1\GradosFahrenheit.pdb
+C:\Users\Usuario\Source\Repos\normal10as\pg2-s19e202-variables-operaciones-matias2112\VariablesOperacionsVB\GradosFahrenheit\obj\Debug\netcoreapp2.1\GradosFahrenheit.vbproj.CoreCompileInputs.cache
+C:\Users\Usuario\Source\Repos\normal10as\pg2-s19e202-variables-operaciones-matias2112\VariablesOperacionsVB\GradosFahrenheit\obj\Debug\netcoreapp2.1\GradosFahrenheit.AssemblyInfoInputs.cache
+C:\Users\Usuario\Source\Repos\normal10as\pg2-s19e202-variables-operaciones-matias2112\VariablesOperacionsVB\GradosFahrenheit\obj\Debug\netcoreapp2.1\GradosFahrenheit.AssemblyInfo.vb
+C:\Users\Usuario\Source\Repos\normal10as\pg2-s19e202-variables-operaciones-matias2112\VariablesOperacionsVB\GradosFahrenheit\obj\Debug\netcoreapp2.1\GradosFahrenheit.dll
+C:\Users\Usuario\Source\Repos\normal10as\pg2-s19e202-variables-operaciones-matias2112\VariablesOperacionsVB\GradosFahrenheit\obj\Debug\netcoreapp2.1\GradosFahrenheit.pdb
